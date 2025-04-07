@@ -1,0 +1,7 @@
+# Linters and Formatters
+flake8
+black
+isort
+
+# Testing Framework
+pytest
