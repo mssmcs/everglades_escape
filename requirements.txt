@@ -5,3 +5,6 @@ isort
 
 # Testing Framework
 pytest
+
+# GUI Library
+pygame
